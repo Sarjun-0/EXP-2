@@ -63,7 +63,7 @@ Open circuit characteristics<img width="1280" height="528" alt="WhatsApp Image 2
 <img width="1280" height="557" alt="WhatsApp Image 2026-10-23 at 7 43 58 PM (1)" src="https://github.com/user-attachments/assets/3ca76093-1e1b-4814-b9c2-f30f25d87d35" />
   
 Load Characteristics:<img width="1600" height="543" alt="WhatsApp Image 2026-10-23 at 7 43 59 PM" src="https://github.com/user-attachments/assets/5ba12b09-9a84-4176-b398-afda29317d07" />
-<img width="1280" height="555" alt="WhatsApp Image 2026-10-23 at 7 43 58 PM (2)" src="https://github.com/user-attachments/assets/0433eba6-8e79-419f-8075-19e4b98cf851" />
+<
 
  
 Result:
