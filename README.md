@@ -1,5 +1,6 @@
 
 
+
 # EXP-2
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
@@ -62,8 +63,8 @@ Model graph: <img width="1516" height="1440" alt="WhatsApp Image 2026-10-23 at 7
 Open circuit characteristics<img width="1280" height="528" alt="WhatsApp Image 2026-10-23 at 7 43 58 PM" src="https://github.com/user-attachments/assets/c9096895-ac3a-4cba-b3ad-33324aba0809" />
 <img width="1280" height="557" alt="WhatsApp Image 2026-10-23 at 7 43 58 PM (1)" src="https://github.com/user-attachments/assets/3ca76093-1e1b-4814-b9c2-f30f25d87d35" />
   
-Load Characteristics:<img width="1600" height="543" alt="WhatsApp Image 2026-10-23 at 7 43 59 PM" src="https://github.com/user-attachments/assets/5ba12b09-9a84-4176-b398-afda29317d07" />
-<
+Load Characteristics:<img width="1280" height="555" alt="WhatsApp Image 2026-10-23 at 7 43 58 PM (2)" src="https://github.com/user-attachments/assets/ccd6a322-8805-4969-9425-63ef86aa400b" />
+<img width="1600" height="543" alt="WhatsApp Image 2026-10-23 at 7 43 59 PM" src="https://github.com/user-attachments/assets/5ba12b09-9a84-4176-b398-afda29317d07" />
 
  
 Result:
